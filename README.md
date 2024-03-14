@@ -22,3 +22,8 @@ Hi guys! My name is Carrasco!<br>CEO & Founder of Iris<br>Back-end Developer<br>
 [![](https://visitcount.itsvg.in/api?id=kcarrasc0&icon=8&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
