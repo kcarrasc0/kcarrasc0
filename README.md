@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 Hi guys! My name is Carrasco!<br>CEO & Founder of Iris<br>Back-end Developer<br>Systems Analysis and Development student - Senac College
 
 
