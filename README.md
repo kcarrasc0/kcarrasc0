@@ -1,5 +1,6 @@
-# ⚡ About Me:
-Hi! My name is Carrasco!<br>CEO & Founder of Iris<br>Back-end Developer<br>Systems Analysis and Development student - Senac College
+# 🏹 About Me:
+Hi! My name is Carrasco!
+I am a young indigenous man who started in the field of development and entrepreneurship<br>CEO & Founder of Iris<br>Back-end Developer<br>Systems Analysis and Development student - Senac College
 
 
 ## 🌐 Socials:
