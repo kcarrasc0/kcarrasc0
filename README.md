@@ -1,5 +1,18 @@
 <!-- HERO -->
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Erick+Carrasco+Oliveira;CEO+%26+Founder+of+NOOK;Front-end+Developer;Building+Technology+to+Transform+Education;EdTech+%7C+Innovation+%7C+Social+Impact"/>
+
+</p>
+<h3 align="center">
+CEO & Founder @ NOOK • Front-end Developer • EdTech Innovator
+</h3>
+
+<p align="center">
+Technology • Education • Social Impact
+</p>
+
 <h1 align="center">
 Erick Carrasco Oliveira
 </h1>
@@ -155,3 +168,9 @@ The startup is currently incubated at:
 **i.de.i.a.S Incubator — Senac & Porto Digital**
 
 ---
+
+<div align="center">
+
+![snake gif](https://github.com/kcarrasc0/kcarrasc0/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
