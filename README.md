@@ -6,10 +6,6 @@
 
 </p>
 
-<h1 align="center">
-Erick Carrasco Oliveira
-</h1>
-
 <h3 align="center">
 CEO & Founder @ NOOK • Front-end Developer • EdTech Innovator
 </h3>
