@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Erick+Carrasco+Oliveira;CEO+%26+Founder+of+NOOK;Front-end+Developer;Building+Technology+to+Transform+Education;EdTech+%7C+Innovation+%7C+Social+Impact;KCARRASCO"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=KCARRASCO;Erick+Carrasco+Oliveira;CEO+%26+Founder+of+NOOK;Front-end+Developer;Building+Technology+to+Transform+Education;EdTech+%7C+Innovation+%7C+Social+Impact;KCARRASCO"/>
 
 </p>
 
