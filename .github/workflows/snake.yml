@@ -1,28 +1,37 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Executa a cada 24 horas
+    - cron: "0 0 * * *"
+  # Permite rodar o script manualmente
   workflow_dispatch:
+
+# ISSO AQUI É O QUE FALTA NA MAIORIA DOS VÍDEOS: Permissão para escrever no repositório
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         with:
-          github_user_name: kcarrasc0
+          # Puxa o seu nome de usuário automaticamente
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Gera o gif do oceano (como no seu README) e versões em SVG (mais nítidas)
           outputs: |
-            dist/ocean.gif?color_snake=#00bfff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: actions/upload-artifact@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: snake
-          path: dist
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
