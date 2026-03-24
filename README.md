@@ -160,6 +160,6 @@ The startup is currently incubated at:
 
 <div align="center">
 
-![snake gif](https://github.com/kcarrasc0/kcarrasc0/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/kcarrasc0/kcarrasc0/output/github-contribution-grid-snake-dark.svg)
 
 </div>
